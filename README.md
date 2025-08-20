@@ -30,7 +30,6 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/vigoraj-basumatary-5ba925283)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([linkedin.com/in/vigoraj-basumatary-5ba925283](https://www.linkedin.com/in/vigoraj-basumatary-5ba925283/))   
 
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
